@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at Sharda University<br>JAVA Programmer <br>Backend Developer
+A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at Sharda University<br>JAVA Programmer <br>Backend Developement with MERN Stack
 
 
 ## 🌐 Socials:
@@ -23,5 +23,3 @@ A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avmaurya07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
