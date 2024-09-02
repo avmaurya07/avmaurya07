@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at Sharda University<br>JAVA Programmer <br>Backend Developement with MERN Stack
+A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at Sharda University<br>JAVA Programmer <br>Web Developement with MERN Stack
 
 
 ## 🌐 Socials:
