@@ -12,7 +12,7 @@ A passionate Programming Enthusiast from India.<br>Machine Learning<br>CSE'26 at
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avmaurya07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avmaurya07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
